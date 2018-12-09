@@ -1,2 +1,2 @@
-# needleTracking
-Needle tracking algorithm with a single camera.
+# needleTracking Algorith
+Pattern tracking algorithm with a stereo camera. The project is intended to be a feasibility test for the idea of attaching a laser projector to the end of a lumbar puncture needle, so that the delicate motion of the needle can be tracked accurately with camera remotely tracking. The details of the implementation can be found at link (https://github.com/mli0603/needleTracking/blob/master/report/Needle_Tracking_Algorithm.pdf).
